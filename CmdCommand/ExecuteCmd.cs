@@ -8,7 +8,7 @@ namespace CmdCommand
         /// Executes a shell command synchronously.
         /// </summary>
         /// <param name="command">string command</param>
-        /// <returns>string, as output of the command.</returns>
+        /// <returns>string, as output of the command or Exception.</returns>
         public static string ExecuteCommandSync(object command)
         {
             try
@@ -41,36 +41,5 @@ namespace CmdCommand
                 // Console.WriteLine("ExecuteCommandSync failed" + objException.Message);
             }
         }
-
-        // /// <summary>
-        // /// Execute the command Asynchronously.
-        // /// </summary>
-        // /// <param name="command">string command.</param>
-        // public static void ExecuteCommandAsync(string command)
-        // {
-        //     try
-        //     {
-        //         //Asynchronously start the Thread to process the Execute command request.
-        //         Thread objThread = new Thread(new ParameterizedThreadStart(ExecuteCommandSync));
-        //         //Make the thread as background thread.
-        //         objThread.IsBackground = true;
-        //         //Set the Priority of the thread.
-        //         objThread.Priority = ThreadPriority.AboveNormal;
-        //         //Start the thread.
-        //         objThread.Start(command);
-        //     }
-        //     catch (ThreadStartException)
-        //     {
-        //         // Log the exception
-        //     }
-        //     catch (ThreadAbortException)
-        //     {
-        //         // Log the exception
-        //     }
-        //     catch (Exception)
-        //     {
-        //         // Log the exception
-        //     }
-        // }
     }
 }
