@@ -1,0 +1,16 @@
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\bin\Debug\net5.0\CmdCommand.exe
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\bin\Debug\net5.0\CmdCommand.deps.json
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\bin\Debug\net5.0\CmdCommand.runtimeconfig.json
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\bin\Debug\net5.0\CmdCommand.runtimeconfig.dev.json
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\bin\Debug\net5.0\CmdCommand.dll
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\bin\Debug\net5.0\CmdCommand.pdb
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.csproj.AssemblyReference.cache
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.dll
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\refint\CmdCommand.dll
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.pdb
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\CmdCommand.genruntimeconfig.cache
+C:\Users\Cavid\source\repos\CmdCommand\CmdCommand\obj\Debug\net5.0\ref\CmdCommand.dll
